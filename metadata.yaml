@@ -1,4 +1,8 @@
 _repo: Along-Alaska-s-Great-River_47402
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47402-h/images/cover.jpg
 creator:
   author:
     agent_name: Schwatka, Frederick
@@ -12,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/38273
 description: Popular account of the travels of the Alaska exploring expedition of
   1883, along the Yukon river from its source to its mouth.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47402#Along-Alaska-s-Great-River
 gutenberg_issued: '2014-11-20'
 gutenberg_type: Text
 identifiers:
